@@ -156,3 +156,7 @@ My question isn't entirely answered. Characters being absent from some nonfictio
 I suffered a recent disappointment at Verne's hands, which may have biased me against him. To compensate for this, I picked a nonfiction writer who was his contemporary (Wallace was born and died within a few years of Verne) and whose writing had good chance to overlap Verne's: Verne wrote many adventures of discovery, Wallace lived two. 
 
 Still, it has come to my attention more recently that Verne suffered many poor translations into English, and I do not yet know whether the translation Project Gutenberg hosts is considered a good or poor one. A more fair future analysis should compare authors who wrote in the same language.
+
+```{r}
+sessionInfo()
+```
